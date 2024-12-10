@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "tests"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\rmrmu\\OneDrive\\repos\\cards\\lib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\rmrmu\\OneDrive\\repos\\cards\\lib\\junit-4.13.2.jar"
+    ]
+}
